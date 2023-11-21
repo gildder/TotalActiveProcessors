@@ -1,0 +1,14 @@
+# Ignora las carpetas bin y obj
+**/bin
+**/obj
+
+# Ignora la carpeta Packages
+**/Packages
+
+# Ignora los archivos de configuración local
+**/appsettings.json
+
+
+# Ignore Visual Code files
+.vscode
+```
